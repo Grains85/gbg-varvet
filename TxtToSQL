@@ -1,0 +1,6 @@
+public class Main {
+	
+	public static String memberFile = "trivastmembers.txt";
+	public static String outFile = "deltagare.txt";
+	
+    public static void main(String[] args) throws Exception {
